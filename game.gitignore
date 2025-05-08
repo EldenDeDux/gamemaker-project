@@ -1,0 +1,16 @@
+# GameMaker Studio build output
+output/
+extensions/AndroidSource/
+config-android/
+.idea/
+
+# User-specific settings
+*.yyp.user
+*.yyz
+*.yymps
+*.log
+*.tmp
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
