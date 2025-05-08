@@ -35,6 +35,13 @@
   "name":"First Game",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_dream","path":"sprites/spr_dream/spr_dream.yy",},},
+    {"id":{"name":"spr_incredible","path":"sprites/spr_incredible/spr_incredible.yy",},},
+    {"id":{"name":"spr_moai","path":"sprites/spr_moai/spr_moai.yy",},},
+    {"id":{"name":"spr_nerd","path":"sprites/spr_nerd/spr_nerd.yy",},},
+    {"id":{"name":"spr_obunga","path":"sprites/spr_obunga/spr_obunga.yy",},},
+    {"id":{"name":"spr_petuh","path":"sprites/spr_petuh/spr_petuh.yy",},},
+    {"id":{"name":"spr_thisguy","path":"sprites/spr_thisguy/spr_thisguy.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

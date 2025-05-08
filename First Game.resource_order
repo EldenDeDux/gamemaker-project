@@ -16,5 +16,12 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_dream","order":6,"path":"sprites/spr_dream/spr_dream.yy",},
+    {"name":"spr_moai","order":2,"path":"sprites/spr_moai/spr_moai.yy",},
+    {"name":"spr_nerd","order":1,"path":"sprites/spr_nerd/spr_nerd.yy",},
+    {"name":"spr_obunga","order":3,"path":"sprites/spr_obunga/spr_obunga.yy",},
+    {"name":"spr_petuh","order":5,"path":"sprites/spr_petuh/spr_petuh.yy",},
+    {"name":"spr_thisguy","order":4,"path":"sprites/spr_thisguy/spr_thisguy.yy",},
+  ],
 }
