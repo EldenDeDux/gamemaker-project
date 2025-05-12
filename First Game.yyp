@@ -34,6 +34,7 @@
   },
   "name":"First Game",
   "resources":[
+    {"id":{"name":"obj_tralalero","path":"objects/obj_tralalero/obj_tralalero.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_dream","path":"sprites/spr_dream/spr_dream.yy",},},
     {"id":{"name":"spr_incredible","path":"sprites/spr_incredible/spr_incredible.yy",},},
@@ -42,6 +43,7 @@
     {"id":{"name":"spr_obunga","path":"sprites/spr_obunga/spr_obunga.yy",},},
     {"id":{"name":"spr_petuh","path":"sprites/spr_petuh/spr_petuh.yy",},},
     {"id":{"name":"spr_thisguy","path":"sprites/spr_thisguy/spr_thisguy.yy",},},
+    {"id":{"name":"spr_tralalero","path":"sprites/spr_tralalero/spr_tralalero.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

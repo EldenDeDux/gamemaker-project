@@ -23,5 +23,6 @@
     {"name":"spr_obunga","order":3,"path":"sprites/spr_obunga/spr_obunga.yy",},
     {"name":"spr_petuh","order":5,"path":"sprites/spr_petuh/spr_petuh.yy",},
     {"name":"spr_thisguy","order":4,"path":"sprites/spr_thisguy/spr_thisguy.yy",},
+    {"name":"spr_tralalero","order":7,"path":"sprites/spr_tralalero/spr_tralalero.yy",},
   ],
 }
