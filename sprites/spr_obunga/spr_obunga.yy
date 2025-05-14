@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_obunga",
   "bboxMode":0,
-  "bbox_bottom":224,
+  "bbox_bottom":63,
   "bbox_left":0,
-  "bbox_right":224,
+  "bbox_right":63,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":225,
+  "height":64,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"0f947161-1e18-4b63-b8e8-7e02234fa30f","blendMode":0,"displayName":"default","isLocked":false,"name":"0f947161-1e18-4b63-b8e8-7e02234fa30f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":225,
+  "width":64,
 }

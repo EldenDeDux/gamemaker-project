@@ -1,0 +1,1 @@
+if (keyboard_check(vk_down)) y = y + 3;
