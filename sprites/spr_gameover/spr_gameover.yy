@@ -3,7 +3,7 @@
   "%Name":"spr_gameover",
   "bboxMode":0,
   "bbox_bottom":342,
-  "bbox_left":84,
+  "bbox_left":80,
   "bbox_right":603,
   "bbox_top":17,
   "collisionKind":1,
