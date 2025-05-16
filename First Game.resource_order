@@ -19,13 +19,13 @@
   "ResourceOrderSettings":[
     {"name":"obj_bullet","order":8,"path":"objects/obj_bullet/obj_bullet.yy",},
     {"name":"obj_dream","order":4,"path":"objects/obj_dream/obj_dream.yy",},
-    {"name":"obj_inccredible","order":2,"path":"objects/obj_inccredible/obj_inccredible.yy",},
     {"name":"obj_moai","order":3,"path":"objects/obj_moai/obj_moai.yy",},
     {"name":"obj_nerd","order":1,"path":"objects/obj_nerd/obj_nerd.yy",},
     {"name":"obj_obunga","order":5,"path":"objects/obj_obunga/obj_obunga.yy",},
     {"name":"obj_petuh","order":6,"path":"objects/obj_petuh/obj_petuh.yy",},
     {"name":"obj_restart","order":7,"path":"objects/obj_restart/obj_restart.yy",},
     {"name":"obj_spawn","order":9,"path":"objects/obj_spawn/obj_spawn.yy",},
+    {"name":"obj_ted","order":2,"path":"objects/obj_ted/obj_ted.yy",},
     {"name":"obj_wall","order":10,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"rm_restart","order":1,"path":"rooms/rm_restart/rm_restart.yy",},
     {"name":"spr_bullet","order":9,"path":"sprites/spr_bullet/spr_bullet.yy",},
@@ -37,5 +37,7 @@
     {"name":"spr_petuh","order":5,"path":"sprites/spr_petuh/spr_petuh.yy",},
     {"name":"spr_tralalero","order":7,"path":"sprites/spr_tralalero/spr_tralalero.yy",},
     {"name":"spr_wall","order":10,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"Sprite11","order":16,"path":"sprites/Sprite11/Sprite11.yy",},
+    {"name":"Sprite12","order":17,"path":"sprites/Sprite12/Sprite12.yy",},
   ],
 }
